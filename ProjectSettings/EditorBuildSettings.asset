@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Pantalla de bienvenida.unity
+    guid: e9961913fb7e9a047a3a31421b54a686
+  - enabled: 1
+    path: Assets/Scenes/Login.unity
+    guid: ce72ec1dfe743944da69712d204861f7
+  - enabled: 1
+    path: Assets/Scenes/Seleccionar Actividad Menu.unity
+    guid: d2b7197d3d556814f91b83c34d54e729
+  - enabled: 1
+    path: Assets/Scenes/Llave 2.unity
+    guid: a38ca5c5b0334cd47be342cd056808ee
+  - enabled: 1
+    path: Assets/Scenes/Seleccionar Actividad.unity
+    guid: 1510565b0c7c90643aadc34b24e8f363
+  - enabled: 1
+    path: Assets/Scenes/ScenePuntaje.unity
+    guid: e44c7cbf2fd69b14ebac69aff3797f75
+  - enabled: 1
+    path: Assets/Scenes/SelectLlave.unity
+    guid: 0edbebecb9ce9a94793dbce0db60cf16
+  - enabled: 1
+    path: Assets/Scenes/Lobby.unity
+    guid: 485dd332501e30a4487aeb2159453cc1
+  - enabled: 1
+    path: Assets/Scenes/Actividad 3 Multi.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Actividad 1.unity
+    guid: 1e2c0eb7e9ac2a2419b85cd16c38c002
+  - enabled: 1
+    path: Assets/Scenes/Actividad 3.unity
+    guid: ae62bc061e825074a81ea4e5f83464bc
+  - enabled: 1
+    path: Assets/Scenes/Crear Ciudad Menu.unity
+    guid: 3768dd85307d4ea4f99a135f76afb9fa
+  - enabled: 1
+    path: Assets/Scenes/TownScene.unity
+    guid: 441fbe92ce761e54894952527870a92b
+  - enabled: 1
+    path: Assets/Scenes/Tienda.unity
+    guid: 7b7ce059c91329544bd602ccdda1fe4a
+  m_configObjects: {}
